@@ -1,0 +1,7 @@
+.gitignore      what to ignore 
+pyproject.toml  metadata and dependencies 
+README.md       Frontpage github etc 
+.venv/          isolated py env 
+docs/           documentation 
+src/ex_project  package with modules inside 
+tests           testing units
