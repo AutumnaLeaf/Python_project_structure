@@ -4,9 +4,12 @@ build-backend = "setuptools.build_meta"
 [project] 
 name = "Pp_structure" 
 version = "0.1.0"
-description = "baisic_structure"
+description = "Python project structure template"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
 [project.optional-dependencies]
-dev = [ "pytest", "ruff",]
+dev = [ 
+	"pytest", 
+	"ruff",
+]
